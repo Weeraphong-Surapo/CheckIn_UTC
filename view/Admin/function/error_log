@@ -1,0 +1,1000 @@
+[16-Jan-2023 23:16:55 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:17:03 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:17:06 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:17:25 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:17:35 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:19:40 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:19:44 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:19:57 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[16-Jan-2023 23:21:07 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:175
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(175): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(79): DB_Admin->check_count_student()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 175
+[19-Jan-2023 20:00:41 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE Teacher_id != '17'' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:127
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(127): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 127
+[19-Jan-2023 20:00:49 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE Teacher_id != '17'' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:127
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(127): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 127
+[19-Jan-2023 20:01:21 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id != '17'' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:127
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(127): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 127
+[19-Jan-2023 20:02:02 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id != '17'' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:127
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(127): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 127
+[19-Jan-2023 20:06:20 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id != '36'' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:127
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(127): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 127
+[19-Jan-2023 20:06:58 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id != '36'' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:127
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(127): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 127
+[19-Jan-2023 20:07:38 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id != '36'' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:127
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(127): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 127
+[19-Jan-2023 20:22:26 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:138
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 138
+[19-Jan-2023 20:22:47 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:138
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 138
+[19-Jan-2023 20:23:55 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:146
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 146
+[19-Jan-2023 20:24:07 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:146
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 146
+[19-Jan-2023 20:24:14 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:146
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 146
+[19-Jan-2023 20:24:52 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:146
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 146
+[19-Jan-2023 20:28:00 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:146
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 146
+[19-Jan-2023 20:28:56 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:143
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 143
+[19-Jan-2023 13:32:21 UTC] PHP Fatal error:  Uncaught Error: Class "DB_Admin" not found in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:4
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 4
+[19-Jan-2023 20:46:41 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:144
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 144
+[19-Jan-2023 20:47:37 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:144
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 144
+[19-Jan-2023 20:47:39 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:144
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 144
+[19-Jan-2023 20:47:40 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:144
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 144
+[19-Jan-2023 20:47:49 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:144
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 144
+[19-Jan-2023 20:47:50 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:144
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 144
+[19-Jan-2023 20:49:00 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:49:11 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:49:15 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:49:25 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:50:01 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:50:01 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:50:21 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:50:23 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:51:04 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:51:05 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:51:05 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:51:08 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:51:13 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:09 Asia/bangkok] PHP Warning:  Undefined array key "department" in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 135
+[19-Jan-2023 20:52:13 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:52 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:53 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:53 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:54 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:54 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:54 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:54 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:52:54 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:145
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 145
+[19-Jan-2023 20:53:26 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:146
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 146
+[19-Jan-2023 20:54:12 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:143
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 143
+[19-Jan-2023 20:54:13 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:143
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 143
+[19-Jan-2023 20:54:15 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:143
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 143
+[19-Jan-2023 20:54:25 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:132
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 132
+[19-Jan-2023 20:54:32 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:143
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 143
+[19-Jan-2023 20:54:41 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:142
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 142
+[19-Jan-2023 20:54:43 Asia/bangkok] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:142
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 142
+[19-Jan-2023 20:54:46 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:132
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 132
+[19-Jan-2023 20:54:49 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:132
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 132
+[19-Jan-2023 20:54:53 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:132
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 132
+[19-Jan-2023 20:55:15 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[19-Jan-2023 20:55:16 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[19-Jan-2023 20:55:16 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[19-Jan-2023 20:55:17 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[19-Jan-2023 20:55:17 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[19-Jan-2023 20:55:42 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[19-Jan-2023 20:55:44 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[19-Jan-2023 20:55:50 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on string in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:130
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(73): DB_Admin->insertTeacher()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 130
+[21-Jan-2023 22:20:49 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'area' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:331
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(331): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(178): DB_Admin->updateArea()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 331
+[25-Jan-2023 18:20:29 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 250
+[25-Jan-2023 18:20:29 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:250
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 250
+[25-Jan-2023 18:34:47 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:34:49 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:34:53 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:35:32 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:36:14 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:36:19 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:36:23 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:36:59 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 18:38:30 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 19:57:10 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:10 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:11 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:11 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:11 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:11 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:13 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:13 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:13 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:13 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:13 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:13 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:16 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:16 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:16 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:16 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:16 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:16 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:17 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:18 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:18 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:26 Asia/bangkok] PHP Warning:  Undefined variable $conn in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 19:57:26 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:262
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 262
+[25-Jan-2023 20:02:30 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:02:41 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:02:41 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:02:42 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:02:42 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:02:42 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:02:42 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:02:42 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:03:15 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:06:10 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[value-2] WHERE Room_ID = '13'' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:06:11 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[value-2] WHERE Room_ID = '13'' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:06:12 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[value-2] WHERE Room_ID = '13'' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:06:12 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[value-2] WHERE Room_ID = '13'' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:06:12 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[value-2] WHERE Room_ID = '13'' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:06:20 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[value-2] WHERE Room_ID = '15'' at line 1 in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php:254
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(254): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 254
+[25-Jan-2023 20:36:15 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'room1' in 'field list' in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:151
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(151): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(75): DB_Admin->insertTeacher()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 151
+[25-Jan-2023 20:51:41 Asia/bangkok] PHP Warning:  Undefined variable $r_room1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:51:41 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:51:41 Asia/bangkok] PHP Warning:  Undefined variable $r_room2 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:51:41 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 190
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 192
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 194
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 198
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 198
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 199
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 200
+[25-Jan-2023 20:51:56 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 201
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 190
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 192
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 194
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 198
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 198
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 199
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 200
+[25-Jan-2023 20:51:58 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 201
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 190
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 192
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 194
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 198
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 198
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 199
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 200
+[25-Jan-2023 20:52:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 201
+[25-Jan-2023 20:52:19 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[25-Jan-2023 20:52:19 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[27-Jan-2023 11:13:11 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 197
+[27-Jan-2023 11:13:14 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 197
+[27-Jan-2023 11:13:14 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 197
+[27-Jan-2023 11:13:15 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 209
+[27-Jan-2023 11:13:16 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 197
+[27-Jan-2023 11:13:17 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 197
+[27-Jan-2023 11:16:00 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205
+[27-Jan-2023 11:16:00 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:16:00 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:16:01 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:16:10 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205
+[27-Jan-2023 11:16:13 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:16:14 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205
+[27-Jan-2023 11:17:06 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:07 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:08 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:10 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:11 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:11 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:12 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:13 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:13 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:13 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:13 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:14 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:14 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:17:30 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:18:27 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 197
+[27-Jan-2023 11:18:27 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 197
+[27-Jan-2023 11:18:55 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:18:57 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:18:58 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:18:58 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:18:58 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:23:01 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:23:24 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:23:25 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:23:28 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205
+[27-Jan-2023 11:24:07 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:08 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:08 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:08 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:09 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:09 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:09 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:11 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:11 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:11 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:12 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:12 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:13 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:13 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:13 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:13 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:13 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:14 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:14 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:14 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:15 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:15 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:19 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:19 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:20 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:20 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:24:20 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::editYears(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 205 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:353
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 353
+[27-Jan-2023 11:25:09 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:10 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:10 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:11 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:11 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:11 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:13 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:14 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:14 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:14 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:14 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:15 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:15 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:17 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:17 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:17 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:17 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:18 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:37 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:38 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:25:41 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:42 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:355
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php(355): mysqli->query()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(205): DB_Admin->editYears()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 355
+[27-Jan-2023 11:25:43 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:25:47 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:26:29 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:26:33 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:26:35 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:26:39 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:27:12 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 11:27:15 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:14:48 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:14:48 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:14:49 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:14:50 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:14:51 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:14:51 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:15:36 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[27-Jan-2023 18:15:38 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[28-Jan-2023 21:11:26 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 00:03:20 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 09:37:07 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 10:00:33 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 10:03:46 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 10:06:21 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 10:07:12 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 10:07:23 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 10:07:29 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 10:09:50 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[29-Jan-2023 11:22:15 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[29-Jan-2023 12:45:26 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 193
+[29-Jan-2023 12:54:12 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:13 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:13 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:14 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:14 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:14 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:15 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:18 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 12:54:19 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 124 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(124): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 13:02:27 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 199
+[29-Jan-2023 13:04:09 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 130 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(130): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 13:04:11 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 130 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(130): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 13:04:15 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 130 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(130): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 13:07:01 Asia/bangkok] PHP Warning:  Undefined array key "Year" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 119
+[29-Jan-2023 13:07:06 Asia/bangkok] PHP Warning:  Undefined array key "Year" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 119
+[29-Jan-2023 13:07:11 Asia/bangkok] PHP Warning:  Undefined array key "Year" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 119
+[29-Jan-2023 13:14:21 Asia/bangkok] PHP Warning:  Undefined array key "Year" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 119
+[29-Jan-2023 13:14:44 Asia/bangkok] PHP Warning:  Undefined array key "Year" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 119
+[29-Jan-2023 13:14:44 Asia/bangkok] PHP Warning:  Undefined array key "Year" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 119
+[29-Jan-2023 13:15:32 Asia/bangkok] PHP Warning:  Undefined variable $year in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 120
+[29-Jan-2023 13:16:07 Asia/bangkok] PHP Warning:  Undefined variable $year in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 121
+[29-Jan-2023 13:17:23 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 130 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(130): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 13:18:59 Asia/bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_Admin::updateTerm(), 0 passed in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 130 and exactly 1 expected in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php:252
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(130): DB_Admin->updateTerm()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 252
+[29-Jan-2023 13:20:57 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 200
+[29-Jan-2023 21:02:21 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 200
+[31-Jan-2023 18:48:50 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[31-Jan-2023 18:48:57 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[01-Feb-2023 14:13:38 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 200
+[21-Feb-2023 19:22:12 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[21-Feb-2023 19:22:12 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 196
+[21-Feb-2023 19:22:12 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[21-Feb-2023 19:22:12 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/CheckUTC/Controller/AdminController.php on line 197
+[21-Feb-2023 20:04:54 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 174
+[21-Feb-2023 20:05:01 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 174
+[21-Feb-2023 20:05:04 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 174
+[21-Feb-2023 20:05:07 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php on line 174
+[21-Feb-2023 14:54:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home5/bigshrry/public_html/CheckUTC/Controller/connectDB.php:9
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/connectDB.php(9): mysqli->__construct()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(4): DB_CONNECT->__construct()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/connectDB.php on line 9
+[21-Feb-2023 14:54:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home5/bigshrry/public_html/CheckUTC/Controller/connectDB.php:9
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/Controller/connectDB.php(9): mysqli->__construct()
+#1 /home5/bigshrry/public_html/CheckUTC/view/Admin/function/action.php(4): DB_CONNECT->__construct()
+#2 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/Controller/connectDB.php on line 9

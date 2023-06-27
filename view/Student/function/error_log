@@ -1,0 +1,444 @@
+[31-Jan-2023 19:26:51 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2196
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2196
+[31-Jan-2023 19:36:38 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[31-Jan-2023 19:39:25 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 07:58:09 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 07:58:28 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 07:58:49 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 08:38:42 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 08:41:13 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 08:43:56 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(52): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 08:58:36 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(15): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:13:49 Asia/bangkok] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php:51
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php on line 51
+[07-Feb-2023 09:20:23 Asia/bangkok] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php:52
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php on line 52
+[07-Feb-2023 09:21:14 Asia/bangkok] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php:52
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php on line 52
+[07-Feb-2023 09:21:26 Asia/bangkok] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php:52
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php on line 52
+[07-Feb-2023 09:22:34 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(51): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:31:57 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:34:08 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:35:13 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(33): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:38:04 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(83): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:45:22 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:45:24 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2196
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2196
+[07-Feb-2023 09:48:17 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:48:17 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:48:19 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:51:07 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:51:07 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:51:38 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:52:30 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:52:47 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:53:26 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:53:52 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:53:55 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:56:37 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:56:37 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 09:59:11 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 09:59:22 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(36): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(84): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 11:13:21 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s616.sgp8.mysecurecloudhost.com' did not match expected CN=`mail.chaiwat.info' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 11:14:38 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s616.sgp8.mysecurecloudhost.com' did not match expected CN=`mail.chaiwat.info' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 11:15:16 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s616.sgp8.mysecurecloudhost.com' did not match expected CN=`mail.chaiwat.info' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(65): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(81): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 11:15:44 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s616.sgp8.mysecurecloudhost.com' did not match expected CN=`mail.chaiwat.info' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(66): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(82): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 11:18:14 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s616.sgp8.mysecurecloudhost.com' did not match expected CN=`mail.chaiwat.info' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(67): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(83): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 11:20:49 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s417.sgp7.mysecurecloudhost.com' did not match expected CN=`mail.bigshop.world' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(67): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(83): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 11:26:20 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s417.sgp7.mysecurecloudhost.com' did not match expected CN=`mail.bigshop.world' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(67): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(83): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
+[07-Feb-2023 11:29:41 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2217
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(67): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(83): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2217
+[07-Feb-2023 11:29:53 Asia/bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`s417.sgp7.mysecurecloudhost.com' did not match expected CN=`mail.bigshop.world' in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php:2183
+Stack trace:
+#0 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(2003): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(67): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home5/bigshrry/public_html/CheckUTC/Controller/StudentController.php(16): smtp_mailer()
+#5 /home5/bigshrry/public_html/CheckUTC/view/Student/function/action.php(83): DB_STUDENT->sendOTP()
+#6 {main}
+  thrown in /home5/bigshrry/public_html/CheckUTC/view/assets/phpmailer/src/PHPMailer.php on line 2183
